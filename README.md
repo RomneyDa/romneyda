@@ -1,23 +1,11 @@
-### Hi there 👋
+### Hi, I'm Dallin
 
-<!--
-**RomneyDa/romneyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with experience in fast-paced startups and full-stack mobile/web application dev. Currently building [MapThis.AI](https://mapthis.ai) and getting involved in open source.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <div style="width:100%;display:flex;flex-direction:row;gap:12px;align-items:center;justify-content:center;"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=romneyda&show_icons=true" width="495">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=romneyda)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- </div> -->
