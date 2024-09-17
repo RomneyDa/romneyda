@@ -1,6 +1,6 @@
 ### Hi, I'm Dallin
 
-Software engineer with experience in fast-paced startups and full-stack mobile/web application dev. Currently building [MapThis.AI](https://mapthis.ai) - tools for geocoding any webpage - and getting involved in open source.
+Software engineer with experience in fast-paced startups and full-stack mobile/web application dev. Currently building [MapThis.AI](https://mapthis.ai) - tools for geocoding any webpage.
 
 <img src="https://github-readme-stats.vercel.app/api?username=romneyda&show_icons=true" width="495">
 
