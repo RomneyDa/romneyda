@@ -1,6 +1,6 @@
 ### Hi, I'm Dallin
 
-Software engineer @Continue.dev. Experience in fast-paced startups and full-stack mobile/web applications.
+Software engineer @Continue.dev (we're hiring!). Experience in fast-paced startups and full-stack mobile/web applications.
 
 <!-- [MapThis.AI](https://mapthis.ai) - tools for geocoding any webpage. -->
 
