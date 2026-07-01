@@ -1,6 +1,6 @@
 ### Hi, I'm Dallin
 
-Building AI that actually does things @ OpenClaw. Former founding engineer @Continue.dev. Experience in fast-paced startups and full-stack mobile/web applications.
+Building AI that actually does things @ OpenClaw. Former founding engineer @Continue.dev.
 
 <!-- [MapThis.AI](https://mapthis.ai) - tools for geocoding any webpage. -->
 
